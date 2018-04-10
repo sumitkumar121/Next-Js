@@ -1,7 +1,6 @@
 Next.js is a minimalistic framework for server-rendered React applications.
 
-
-Setup:
+How to run.
 
 npm install 
 
