@@ -1,6 +1,6 @@
 Next.js is a minimalistic framework for server-rendered React applications.
 
-some other cool features Next.js brings to the table.
+some  cool features Next.js brings to the table.
 
 Server-rendered by default
 
